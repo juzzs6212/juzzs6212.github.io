@@ -11,8 +11,15 @@
 
 ---
 
+### 🌙 LastSeen Pro (com.yinsong.lastseen)
+*一款效率工具*
+* [用户使用协议 (EULA)](./com.yinsong.lastseen/user_agreement.html)
+* [隐私保护政策 (Privacy Policy)](./com.yinsong.lastseen/privacy_policy.html)
+
+---
+
 ### 📢 通用声明
 * [暂无]
 
 **联系我们：** [yinsong276@gmail.com]
-*最后更新日期：2026年2月12日*
+*最后更新日期：2026年10月24日*
