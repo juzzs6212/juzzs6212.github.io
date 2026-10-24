@@ -18,6 +18,12 @@
 
 ---
 
+### 🌙 LastSeen (com.zzs.wa.tracker)
+*一款效率工具*
+* [隐私保护政策 (Privacy Policy)](./com.zzs.wa.tracker/privacy_policy.html)
+
+---
+
 ### 📢 通用声明
 * [暂无]
 
