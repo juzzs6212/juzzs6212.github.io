@@ -11,7 +11,7 @@
 
 ---
 
-### 🌙 LastSeen Pro (com.yinsong.lastseen)
+### 🌙 Last Seen (com.yinsong.lastseen)
 *一款效率工具*
 * [用户使用协议 (EULA)](./com.yinsong.lastseen/user_agreement.html)
 * [隐私保护政策 (Privacy Policy)](./com.yinsong.lastseen/privacy_policy.html)
